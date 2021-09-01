@@ -1,0 +1,27 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP18F4550 -DL -O11111114 -fo4 -N"D:\electronics\Micro C\CRC_I2C\CRC_LEO.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" -SP"D:\electronics\Micro C\CRC_I2C\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" "CRC_LEO.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_CString.mcl" "__Lib_CMath.mcl" "__Lib_Conversions.mcl" "__Lib_I2C_b10.mcl"	 
+hint: 0	1139	Available RAM: 2027 [bytes], Available ROM: 32768 [bytes]	 
+diagnostics: 0	122	Compilation Started	CRC_LEO.c
+hint: 236	1163	Variable 'Temp' has been declared, but not used	CRC_LEO.c
+hint: 238	1163	Variable 'ex' has been declared, but not used	CRC_LEO.c
+hint: 238	1163	Variable 'ex1' has been declared, but not used	CRC_LEO.c
+hint: 239	1163	Variable 'nb' has been declared, but not used	CRC_LEO.c
+hint: 240	1163	Variable 'ac' has been declared, but not used	CRC_LEO.c
+hint: 241	1163	Variable 'h' has been declared, but not used	CRC_LEO.c
+hint: 242	1163	Variable 'b1' has been declared, but not used	CRC_LEO.c
+diagnostics: 283	123	Compiled Successfully	CRC_LEO.c
+hint: 190	1164	Variable 'nBit' has been eliminated by optimizer	CRC_LEO.c
+hint: 192	1164	Variable 'exval' has been eliminated by optimizer	CRC_LEO.c
+hint: 193	1164	Variable 'and1' has been eliminated by optimizer	CRC_LEO.c
+hint: 207	1164	Variable 'qb' has been eliminated by optimizer	CRC_LEO.c
+hint: 235	1164	Variable 'adc' has been eliminated by optimizer	CRC_LEO.c
+hint: 235	1164	Variable 'pol' has been eliminated by optimizer	CRC_LEO.c
+hint: 242	1164	Variable 'b' has been eliminated by optimizer	CRC_LEO.c
+hint: 243	1164	Variable 'd' has been eliminated by optimizer	CRC_LEO.c
+hint: 244	1164	Variable 'Pb' has been eliminated by optimizer	CRC_LEO.c
+diagnostics: 0	127	All files Compiled in 125 ms	 
+hint: 0	1144	Used RAM (bytes): 192 (9%)  Free RAM (bytes): 1835 (91%)	Used RAM (bytes): 192 (9%)  Free RAM (bytes): 1835 (91%)
+hint: 0	1144	Used ROM (bytes): 8202 (25%)  Free ROM (bytes): 24566 (75%)	Used ROM (bytes): 8202 (25%)  Free ROM (bytes): 24566 (75%)
+diagnostics: 0	125	Project Linked Successfully	CRC_LEO.mcppi
+diagnostics: 0	128	Linked in 47 ms	 
+diagnostics: 0	129	Project 'CRC_LEO.mcppi' completed: 203 ms	 
+diagnostics: 0	103	Finished successfully: 29 may. 2021, 16:41:04	CRC_LEO.mcppi
